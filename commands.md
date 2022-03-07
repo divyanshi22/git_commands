@@ -1,10 +1,10 @@
 ## After Installing GIT
-1. git<br>
-2.git config --global user. name "divyanshi22"<br>
-3. git config --global user. email "write your email here "<br>
-4. git config --list<br>
-5 git config user. name<br>
-6. git config user. email<br>
+ git<br>
+ git config --global user. name "divyanshi22"<br>
+ git config --global user. email "write your email here "<br>
+ git config --list<br>
+ git config user. name<br>
+ git config user. email<br>
 
  
 ## How to push a project on github
