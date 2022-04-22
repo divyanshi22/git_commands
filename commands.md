@@ -1,6 +1,6 @@
 ## After Installing GIT
  git<br>
- git config --global user. name "divyanshi22"<br>
+ git config --global user. name "write your username here "<br>
  git config --global user. email "write your email here "<br>
  git config --list<br>
  git config user. name<br>
