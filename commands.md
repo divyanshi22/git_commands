@@ -22,3 +22,23 @@ git status <br>
 git add --all<br>
 git commit -m " Label"<br>
 git push --all<br>
+
+## How to move back to previous folder? 
+command is cd ..<br>
+(make sure to put a space after cd then 2 dots)<br>
+
+## How to delete reinitialised git?
+Eg:- we type command<br>
+git init<br>
+and it says reinitialised existing git<br>
+
+So, to delete reinitialised existing git, use the command:-<br>
+
+rm -rf .git<br>
+
+then,<br>
+
+git init<br>
+
+
+           
